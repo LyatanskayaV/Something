@@ -112,7 +112,7 @@ h5{
   position: relative;
   margin-left: 15px;
   margin-top: 10px;
-  border-radius: 50%;
+  border-radius: 50px;
 }
 
 .link_icons22{
@@ -155,11 +155,23 @@ h5{
   border-spacing: 15px;
 }
 
-.link_icons2:hover{
+.link_icons11:hover{
+    text-decoration: none;
+    background: green;
+    background-color: green;
+    color: green;
+   }
+
+.link_icons22:hover{
+       text-decoration: none;
+       background: green;
+       color: green;
+}
+.link_icons33:hover{
     text-decoration: none;
     background: green;
     color: green;
-   }
+}
 
 .cont2{
   position: absolute;
@@ -258,6 +270,12 @@ input{
 .btn{
   margin-left: -30px;
   position: absolute;
+}
+
+.icons_bottom{
+  text-align: center;
+  word-spacing: 30px;
+  position: relative;
 }
 
 .f1{
