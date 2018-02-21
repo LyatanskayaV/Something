@@ -1,0 +1,298 @@
+
+body{
+  width: 1600px;
+  height: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.line{
+height: 10px;
+background-color: #2ecc71;
+}
+
+.photo{
+  width: 100%;
+}
+
+header{
+  background-image: url(img1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+  margin-top: 0px;
+}
+
+iframe{
+  float: right;
+  margin-right: 80px;
+  margin-top: -180px;
+}
+
+.head{
+    padding-left: 328px;
+    width: 453px;
+    height: 59px;
+    color: #ffffff;
+    font-family: "Helvetica Neue";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.header_notify{
+  margin-left: 328px;
+  padding-top: 75px;
+  margin-bottom: 0px;
+  margin-top: 167px;
+}
+
+h3{
+  padding-left: 211px;
+  padding-top: 59px;
+  width: 296px;
+  height: 22px;
+  color: #222222;
+  font-family: "Raleway - Semi Bold";
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+h4{
+  font-family: "Raleway-SemiBold";
+}
+
+h5{
+  text-align: center;
+  margin: 10px;
+  height: 14px;
+  color: #2e2e2e;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  padding-bottom: 15px;
+}
+
+.pictures{
+  text-align: center;
+  padding-top: 20px;
+  word-spacing: 300px;
+  position: absolute;
+  width: 1600px;
+  padding-bottom: 10px;
+}
+
+.container{
+  margin-left: 329px;
+  height: 54px;
+  border-radius: 50%;
+}
+
+.link_icons{
+  position: absolute;
+  float: left;
+  border-radius: 50%;
+}
+
+.link_icons1{
+  position: absolute;
+  margin-left: 70px;
+  border-radius: 50%;
+}
+
+.link_icons2{
+  position: absolute;
+  margin-left: 140px;
+  border-radius: 50%;
+}
+
+.link_icons11{
+  position: relative;
+  margin-left: 15px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+.link_icons22{
+  position: relative;
+  margin-left: 45px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+
+.link_icons33{
+  position: relative;
+  margin-left: 40px;
+}
+
+.icons{
+  text-align: center;
+  padding-top: 60px;
+  word-spacing: 355px;
+  position: relative;
+  padding-bottom: 25px;
+  width: 1600px;
+}
+
+.links{
+  text-align: center;
+  word-spacing: 30px;
+  position: relative;
+  padding-top: 21px;
+  padding-bottom: 60px;
+  width: 1600px;
+}
+
+.mini_photo{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 60px;
+  width: 1600px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-spacing: 15px;
+}
+
+.link_icons2:hover{
+    text-decoration: none;
+    background: green;
+    color: green;
+   }
+
+.cont2{
+  position: absolute;
+  text-align: center;
+  width: 1600px;
+  word-spacing: 10px;
+  padding: 0px;
+}
+
+.hh{
+  margin-bottom: 15px;
+  margin-top: 15;
+  text-align: center;
+  height: 24px;
+  color: #000000;
+  font-family: "Raleway - Semi Bold";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+p{
+ color: #848484;
+ font-family: "Helvetica Neue";
+ font-size: 12px;
+ font-weight: 300px;
+ line-height: 20px;
+}
+
+.p1{
+  text-align: center;
+  word-spacing: 150px;
+  padding-top: 0px;
+}
+
+.p2{
+  height: 16px;
+  color: #848484;
+  font-family: "Helvetica Neue";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+  padding-top: 60px;
+  word-spacing: 20px;
+}
+
+.p3{
+  padding-left: 210px;
+  padding-top: 25px;
+  width: 533px;
+  height: 91px;
+  color: #848484;
+  font-family: "Helvetica Neue";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.hand{
+  position: absolute;
+  top: 95px;
+  right: 262px;
+  left: 899px;
+  float: right;
+}
+
+.wall{
+  left: 965px;
+  top: 161px;
+  position: absolute;
+}
+
+.third{
+  height: 427px;
+  background-color: #e3e3e3;
+}
+
+.fourth{
+  height: 466px;
+  padding: 0px;
+  margin: 0px;
+}
+
+aside {
+   display: flex;
+   text-align: center;
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+input{
+  margin-left: 209px;
+}
+
+.btn{
+  margin-left: -30px;
+  position: absolute;
+}
+
+.f1{
+  text-align: center;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 0px;
+  height: 47px;
+  color: #848484;
+  font-family: "Helvetica Neue";
+  font-size: 18px;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.f2{
+  text-align: center;
+  padding-bottom: 10px;
+  height: 16px;
+  color: #848484;
+  font-family: "Helvetica Neue";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.part{
+  padding: 0 60px;
+}
+
+.in{
+  padding: 0 10px;
+}
+
+footer{
+height: 130px;
+background-color: #e3e3e3;
+}
